@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+}
+.navbar {
+    position: fixed;
+    background-color: black;
+    margin: -8px;
+    height: 40px;
+    width: 100%;
+}
+#mainbtn {
+}
