@@ -1,0 +1,21 @@
+.btn {
+    list-style-type: none;
+    display: inline;
+    padding: 25px;
+    margin: -1px;
+    font-size: 30px;
+    font-weight: bold;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+    float: inline-end;
+}
+.navbar {
+    position: fixed;
+    background-color: rgb(24, 11, 51);
+    margin: -8px;
+    height: 65px;
+    width: 100%;
+}
+#mainbtn {
+    fon
+}
